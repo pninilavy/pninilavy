@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bunner.png" alt="Pnina Lavy GitHub Banner" />
+  <img src="bunner.png" alt="Pnina Lavy GitHub Banner" width="600"/>
 </p>
 
 # 👋 Hi, I'm Pnina Lavy
